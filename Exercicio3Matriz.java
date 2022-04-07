@@ -1,5 +1,5 @@
 
-public class Ex3Matriz {
+public class Exercicio3Matriz {
 //feito
 	public static void main(String[] args) {
 		int mat[][] = new int[4][4];
