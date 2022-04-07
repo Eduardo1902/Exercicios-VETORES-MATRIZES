@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Ex14Matriz {
+public class Exercicio14Matriz {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
