@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class ExVetor11 {
+public class ExercicioVetor11 {
 
     public static void main(String[] args) {
         Scanner ent = new Scanner(System.in);
