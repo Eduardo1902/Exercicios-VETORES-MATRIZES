@@ -1,4 +1,4 @@
-public class ExVetor9 {
+public class ExercicioVetor9 {
 
 	public static void main(String[] args) {
 		int i;
